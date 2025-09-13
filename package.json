@@ -15,17 +15,17 @@
     "lint": "eslint --fix"
   },
   "dependencies": {
-    "@heroui/react": "^2.8.2",
-    "@heroui/switch": "^2.2.22",
-    "@heroui/system": "^2.4.20",
-    "@heroui/theme": "^2.4.20",
+    "@heroui/react": "^2.8.4",
+    "@heroui/switch": "^2.2.23",
+    "@heroui/system": "^2.4.22",
+    "@heroui/theme": "^2.4.22",
     "@react-aria/ssr": "^3.9.10",
     "@react-aria/visually-hidden": "^3.8.27",
     "clsx": "^2.1.1",
     "date-fns": "^4.1.0",
     "framer-motion": "^12.23.12",
     "intl-messageformat": "^10.7.16",
-    "next": "^15.5.2",
+    "next": "^15.5.3",
     "next-themes": "^0.4.6",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
@@ -33,10 +33,10 @@
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
-    "@next/eslint-plugin-next": "^15.5.2",
-    "@tailwindcss/postcss": "^4.1.12",
-    "eslint": "^9.34.0",
-    "eslint-config-next": "^15.5.2",
+    "@next/eslint-plugin-next": "^15.5.3",
+    "@tailwindcss/postcss": "^4.1.13",
+    "eslint": "^9.35.0",
+    "eslint-config-next": "^15.5.3",
     "eslint-config-prettier": "^10.1.8",
     "eslint-plugin-import": "^2.32.0",
     "eslint-plugin-jsx-a11y": "^6.10.2",
@@ -45,11 +45,11 @@
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-unused-imports": "^4.2.0",
-    "globals": "^16.3.0",
+    "globals": "^16.4.0",
     "postcss": "^8.5.6",
     "prettier": "^3.6.2",
     "prettier-plugin-tailwindcss": "^0.6.14",
-    "tailwind-variants": "^3.1.0",
-    "tailwindcss": "^4.1.12"
+    "tailwind-variants": "^3.1.1",
+    "tailwindcss": "^4.1.13"
   }
 }
